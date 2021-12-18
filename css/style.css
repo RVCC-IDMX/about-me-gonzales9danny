@@ -4,13 +4,17 @@ body {
     color: #4F41E0;
 }
 
-h1, h2, h4, h5, h6 {
+h1, h4, h5, h6 {
     font-family: Luckiest Guy;
     font-size: 75pt;
 }
-h3 {
+h2 {
   font-family: Luckiest Guy;
   font-size: 55pt;
+}
+h3 {
+  font-family: Luckiest Guy;
+  font-size: 25pt;
 }
 header { 
     text-align: center;
